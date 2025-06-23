@@ -1,5 +1,5 @@
 # 💫 About Me:
-H4cker | Code Wizard | Building the Future,<br> One Line at a Time <br>👾 Full-stack web developer with an obsession for solving problems through codes.
+H4cker | Code Wizard | Building the Future,<br> One Line at a Time <br>👾 Full-stack web developer<br> with an obsession for solving problems through codes.
 
 
 ## 🌐 Socials:

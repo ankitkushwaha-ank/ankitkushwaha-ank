@@ -1,5 +1,5 @@
 # Ankit kushwaha
-H4cker | Code Wizard | Building the Future,<br> One Line at a Time 👾 <br> Full-stack web developer<br> with an obsession for solving problems through codes.
+H4cker | Code Wizard | Building the Future,<br> H4ck1ng the w0r1d <br> Full-stack web developer<br> with an obsession for solving problems through codes.
 
 
 ## 🌐 Socials:
